@@ -1,0 +1,101 @@
+2013-06-03T11:18:21.967283+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 22942 -e $RAILS_ENV`
+2013-06-03T11:18:22.606575+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T11:18:23.736706+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T11:18:23.751118+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T11:28:54.356560+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T11:28:57.124186+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 35965 -e $RAILS_ENV`
+2013-06-03T11:28:58.182885+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T11:28:59.493668+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T11:28:59.512962+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T11:39:37.563609+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T11:39:40.156668+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 7816 -e $RAILS_ENV`
+2013-06-03T11:39:40.803827+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T11:39:41.952560+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T11:39:41.962617+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T11:50:07.716427+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T11:50:09.618384+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 17390 -e $RAILS_ENV`
+2013-06-03T11:50:10.248784+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T11:50:11.359637+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T11:50:11.373400+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T12:00:50.094712+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T12:00:52.394659+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 58333 -e $RAILS_ENV`
+2013-06-03T12:00:53.016363+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T12:00:54.198499+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T12:00:54.215150+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T12:11:17.252689+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T12:11:20.925372+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 21004 -e $RAILS_ENV`
+2013-06-03T12:11:21.963206+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T12:11:23.480357+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T12:11:23.497402+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T12:21:29.736989+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T12:21:32.665793+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 44312 -e $RAILS_ENV`
+2013-06-03T12:21:33.301397+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T12:21:34.547501+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T12:21:34.562088+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T12:31:56.469627+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T12:32:00.462987+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 14015 -e $RAILS_ENV`
+2013-06-03T12:32:02.189751+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T12:32:05.141446+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T12:32:05.150713+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T12:42:09.361843+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T12:42:12.165931+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 43788 -e $RAILS_ENV`
+2013-06-03T12:42:13.420489+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T12:42:14.883083+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T12:42:14.896430+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T12:52:46.576993+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T12:52:49.170877+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 39686 -e $RAILS_ENV`
+2013-06-03T12:52:49.790964+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T12:52:51.022004+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T12:52:51.046195+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T13:03:25.439559+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T13:03:28.228798+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 33008 -e $RAILS_ENV`
+2013-06-03T13:03:29.881516+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T13:03:31.152610+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T13:03:31.165755+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T13:14:01.684599+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T13:14:04.403189+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 9244 -e $RAILS_ENV`
+2013-06-03T13:14:05.194520+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T13:14:06.496269+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T13:14:06.504990+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T13:24:40.434908+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T13:24:43.116055+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 7865 -e $RAILS_ENV`
+2013-06-03T13:24:43.722415+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T13:24:44.912644+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T13:24:44.925550+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T13:35:10.523353+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T13:35:13.516391+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 24443 -e $RAILS_ENV`
+2013-06-03T13:35:14.325878+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T13:35:15.674265+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T13:35:15.705689+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T13:45:16.712805+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T13:45:19.320181+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 6472 -e $RAILS_ENV`
+2013-06-03T13:45:19.913927+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T13:45:21.160662+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T13:45:21.181764+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T13:55:29.239895+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T13:55:31.613045+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 20051 -e $RAILS_ENV`
+2013-06-03T13:55:32.246448+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T13:55:33.485171+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T13:55:33.496144+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T14:03:28.944372+00:00 heroku[slugc]: Slug compilation started
+2013-06-03T14:04:08.391733+00:00 heroku[api]: Deploy e2120be by thomas.henckel51@gmail.com
+2013-06-03T14:04:08.424612+00:00 heroku[api]: Release v7 created by thomas.henckel51@gmail.com
+2013-06-03T14:04:08.458157+00:00 heroku[api]: Deploy e2120be by thomas.henckel51@gmail.com
+2013-06-03T14:04:08.721415+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T14:04:09.047503+00:00 heroku[slugc]: Slug compilation finished
+2013-06-03T14:04:11.093043+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 38363 -e $RAILS_ENV`
+2013-06-03T14:04:12.324405+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T14:04:13.669960+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T14:04:13.682102+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T14:06:04.750448+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T14:06:06.927347+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 55214 -e $RAILS_ENV`
+2013-06-03T14:06:07.542275+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T14:06:08.744271+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T14:06:08.728492+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T14:16:10.790693+00:00 heroku[web.1]: State changed from crashed to starting
+2013-06-03T14:16:12.888344+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 53641 -e $RAILS_ENV`
+2013-06-03T14:16:13.464381+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
+2013-06-03T14:16:14.563185+00:00 heroku[web.1]: Process exited with status 127
+2013-06-03T14:16:14.575838+00:00 heroku[web.1]: State changed from starting to crashed
+2013-06-03T14:17:04.708323+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path=/ host=pacific-sands-1573.herokuapp.com fwd="91.214.20.222" dyno= connect= service= status=503 bytes=
+2013-06-03T14:17:05.026188+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path=/favicon.ico host=pacific-sands-1573.herokuapp.com fwd="91.214.20.222" dyno= connect= service= status=503 bytes=
