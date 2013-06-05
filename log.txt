@@ -1,101 +1,102 @@
-2013-06-03T11:18:21.967283+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 22942 -e $RAILS_ENV`
-2013-06-03T11:18:22.606575+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T11:18:23.736706+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T11:18:23.751118+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T11:28:54.356560+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T11:28:57.124186+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 35965 -e $RAILS_ENV`
-2013-06-03T11:28:58.182885+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T11:28:59.493668+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T11:28:59.512962+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T11:39:37.563609+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T11:39:40.156668+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 7816 -e $RAILS_ENV`
-2013-06-03T11:39:40.803827+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T11:39:41.952560+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T11:39:41.962617+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T11:50:07.716427+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T11:50:09.618384+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 17390 -e $RAILS_ENV`
-2013-06-03T11:50:10.248784+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T11:50:11.359637+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T11:50:11.373400+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T12:00:50.094712+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T12:00:52.394659+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 58333 -e $RAILS_ENV`
-2013-06-03T12:00:53.016363+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T12:00:54.198499+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T12:00:54.215150+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T12:11:17.252689+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T12:11:20.925372+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 21004 -e $RAILS_ENV`
-2013-06-03T12:11:21.963206+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T12:11:23.480357+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T12:11:23.497402+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T12:21:29.736989+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T12:21:32.665793+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 44312 -e $RAILS_ENV`
-2013-06-03T12:21:33.301397+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T12:21:34.547501+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T12:21:34.562088+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T12:31:56.469627+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T12:32:00.462987+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 14015 -e $RAILS_ENV`
-2013-06-03T12:32:02.189751+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T12:32:05.141446+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T12:32:05.150713+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T12:42:09.361843+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T12:42:12.165931+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 43788 -e $RAILS_ENV`
-2013-06-03T12:42:13.420489+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T12:42:14.883083+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T12:42:14.896430+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T12:52:46.576993+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T12:52:49.170877+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 39686 -e $RAILS_ENV`
-2013-06-03T12:52:49.790964+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T12:52:51.022004+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T12:52:51.046195+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T13:03:25.439559+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T13:03:28.228798+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 33008 -e $RAILS_ENV`
-2013-06-03T13:03:29.881516+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T13:03:31.152610+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T13:03:31.165755+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T13:14:01.684599+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T13:14:04.403189+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 9244 -e $RAILS_ENV`
-2013-06-03T13:14:05.194520+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T13:14:06.496269+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T13:14:06.504990+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T13:24:40.434908+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T13:24:43.116055+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 7865 -e $RAILS_ENV`
-2013-06-03T13:24:43.722415+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T13:24:44.912644+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T13:24:44.925550+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T13:35:10.523353+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T13:35:13.516391+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 24443 -e $RAILS_ENV`
-2013-06-03T13:35:14.325878+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T13:35:15.674265+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T13:35:15.705689+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T13:45:16.712805+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T13:45:19.320181+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 6472 -e $RAILS_ENV`
-2013-06-03T13:45:19.913927+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T13:45:21.160662+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T13:45:21.181764+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T13:55:29.239895+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T13:55:31.613045+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 20051 -e $RAILS_ENV`
-2013-06-03T13:55:32.246448+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T13:55:33.485171+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T13:55:33.496144+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T14:03:28.944372+00:00 heroku[slugc]: Slug compilation started
-2013-06-03T14:04:08.391733+00:00 heroku[api]: Deploy e2120be by thomas.henckel51@gmail.com
-2013-06-03T14:04:08.424612+00:00 heroku[api]: Release v7 created by thomas.henckel51@gmail.com
-2013-06-03T14:04:08.458157+00:00 heroku[api]: Deploy e2120be by thomas.henckel51@gmail.com
-2013-06-03T14:04:08.721415+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T14:04:09.047503+00:00 heroku[slugc]: Slug compilation finished
-2013-06-03T14:04:11.093043+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 38363 -e $RAILS_ENV`
-2013-06-03T14:04:12.324405+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T14:04:13.669960+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T14:04:13.682102+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T14:06:04.750448+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T14:06:06.927347+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 55214 -e $RAILS_ENV`
-2013-06-03T14:06:07.542275+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T14:06:08.744271+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T14:06:08.728492+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T14:16:10.790693+00:00 heroku[web.1]: State changed from crashed to starting
-2013-06-03T14:16:12.888344+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 53641 -e $RAILS_ENV`
-2013-06-03T14:16:13.464381+00:00 app[web.1]: /usr/bin/env: ruby.exe: No such file or directory
-2013-06-03T14:16:14.563185+00:00 heroku[web.1]: Process exited with status 127
-2013-06-03T14:16:14.575838+00:00 heroku[web.1]: State changed from starting to crashed
-2013-06-03T14:17:04.708323+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path=/ host=pacific-sands-1573.herokuapp.com fwd="91.214.20.222" dyno= connect= service= status=503 bytes=
-2013-06-03T14:17:05.026188+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path=/favicon.ico host=pacific-sands-1573.herokuapp.com fwd="91.214.20.222" dyno= connect= service= status=503 bytes=
+2013-06-03T14:32:54.384629+00:00 app[web.1]: 	/app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:160:in `start'
+2013-06-03T14:32:54.384629+00:00 app[web.1]: 	/app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:32:in `start'
+2013-06-03T14:32:54.384629+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/server.rb:264:in `start'
+2013-06-03T14:32:54.384629+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/handler/webrick.rb:14:in `run'
+2013-06-03T14:32:54.384629+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands/server.rb:84:in `start'
+2013-06-03T14:32:54.384629+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands.rb:75:in `tap'
+2013-06-03T14:32:54.384629+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands.rb:80:in `block in <top (required)>'
+2013-06-03T14:32:54.384948+00:00 app[web.1]: 	bin/rails:4:in `require'
+2013-06-03T14:32:54.384948+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands.rb:75:in `<top (required)>'
+2013-06-03T14:32:54.385137+00:00 app[web.1]: [2013-06-03 14:32:54] INFO  going to shutdown ...
+2013-06-03T14:32:54.384948+00:00 app[web.1]: 	bin/rails:4:in `<main>'
+2013-06-03T14:32:54.385313+00:00 app[web.1]: [2013-06-03 14:32:54] INFO  WEBrick::HTTPServer#start done.
+2013-06-03T14:32:54.415243+00:00 app[web.1]: Exiting
+2013-06-03T14:32:55.139982+00:00 app[web.1]: [2013-06-03 14:32:55] INFO  WEBrick 1.3.1
+2013-06-03T14:32:55.140235+00:00 app[web.1]: [2013-06-03 14:32:55] INFO  ruby 2.0.0 (2013-05-14) [x86_64-linux]
+2013-06-03T14:32:55.140845+00:00 app[web.1]: [2013-06-03 14:32:55] INFO  WEBrick::HTTPServer#start: pid=2 port=39396
+2013-06-03T14:32:55.387325+00:00 heroku[web.1]: State changed from starting to up
+2013-06-03T14:32:55.609003+00:00 heroku[web.1]: Process exited with status 143
+2013-06-03T14:34:23.268731+00:00 heroku[router]: at=info method=GET path=/ host=pacific-sands-1573.herokuapp.com fwd="91.214.20.222" dyno=web.1 connect=11ms service=291ms status=500 bytes=1266
+2013-06-03T14:34:53.598889+00:00 heroku[api]: Starting process with command `bundle exec rake db:migrate` by thomas.henckel51@gmail.com
+2013-06-03T14:34:56.306514+00:00 heroku[run.6997]: Awaiting client
+2013-06-03T14:34:56.336778+00:00 heroku[run.6997]: Starting process with command `bundle exec rake db:migrate`
+2013-06-03T14:34:57.160839+00:00 heroku[run.6997]: State changed from starting to up
+2013-06-03T14:34:59.883952+00:00 heroku[run.6997]: Process exited with status 1
+2013-06-03T14:34:59.896087+00:00 heroku[run.6997]: State changed from up to complete
+2013-06-03T14:36:47.680260+00:00 heroku[web.1]: State changed from up to starting
+2013-06-03T14:36:50.454028+00:00 heroku[web.1]: Starting process with command `bin/rails server -p 20762 -e $RAILS_ENV`
+2013-06-03T14:36:51.638845+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2013-06-03T14:36:52.649006+00:00 app[web.1]: [2013-06-03 14:36:52] INFO  ruby 2.0.0 (2013-05-14) [x86_64-linux]
+2013-06-03T14:36:52.648803+00:00 app[web.1]: [2013-06-03 14:36:52] INFO  WEBrick 1.3.1
+2013-06-03T14:36:52.649529+00:00 app[web.1]: [2013-06-03 14:36:52] INFO  WEBrick::HTTPServer#start: pid=2 port=20762
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:32:in `start'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/handler/webrick.rb:14:in `run'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: [2013-06-03 14:36:52] FATAL SignalException: SIGTERM
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:170:in `select'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands/server.rb:84:in `start'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:170:in `block in start'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:160:in `start'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/server.rb:264:in `start'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands.rb:80:in `block in <top (required)>'
+2013-06-03T14:36:52.658739+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands.rb:75:in `tap'
+2013-06-03T14:36:52.659195+00:00 app[web.1]: 	/app/vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/commands.rb:75:in `<top (required)>'
+2013-06-03T14:36:52.660526+00:00 app[web.1]: [2013-06-03 14:36:52] INFO  going to shutdown ...
+2013-06-03T14:36:52.659195+00:00 app[web.1]: 	bin/rails:4:in `<main>'
+2013-06-03T14:36:52.660694+00:00 app[web.1]: [2013-06-03 14:36:52] INFO  WEBrick::HTTPServer#start done.
+2013-06-03T14:36:52.659195+00:00 app[web.1]: 	bin/rails:4:in `require'
+2013-06-03T14:36:52.777907+00:00 app[web.1]: => Booting WEBrick
+2013-06-03T14:36:52.777907+00:00 app[web.1]: NameError (uninitialized constant ActiveRecord::ConnectionAdapters::PostgreSQLAdapter::PG):
+2013-06-03T14:36:52.777907+00:00 app[web.1]: => Rails 4.0.0.rc1 application starting in production on http://0.0.0.0:39396
+2013-06-03T14:36:52.777907+00:00 app[web.1]: => Run `rails server -h` for more startup options
+2013-06-03T14:36:52.777907+00:00 app[web.1]: => Ctrl-C to shutdown server
+2013-06-03T14:36:52.777907+00:00 app[web.1]: F, [2013-06-03T14:34:23.268240 #2] FATAL -- : 
+2013-06-03T14:36:52.777907+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/postgresql_adapter.rb:533:in `active?'
+2013-06-03T14:36:52.777907+00:00 app[web.1]: I, [2013-06-03T14:34:22.983980 #2]  INFO -- : Started GET "/" for 91.214.20.222 at 2013-06-03 14:34:22 +0000
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/ruby-2.0.0/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'
+2013-06-03T14:36:52.777907+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:458:in `block in checkout_and_verify'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/callbacks.rb:392:in `_run__1931310388090917753__checkout__callbacks'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:355:in `checkout'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:265:in `block in connection'
+2013-06-03T14:36:52.777907+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract_adapter.rb:360:in `verify!'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:358:in `block in checkout'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:626:in `call'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/callbacks.rb:392:in `_run__4422256062676870965__call__callbacks'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/query_cache.rb:32:in `call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/actionpack-4.0.0.rc1/lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+20
+13-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/actionpack-4.0.0.rc1/lib/action_dispatch/middleware/request_id.rb:21:in `call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/rack/logger.rb:21:in `block in call'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/cache/strategy/local_cache.rb:83:in `call'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/rack/logger.rb:38:in `call_app'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/engine.rb:511:in `call'
+2013-06-03T14:36:52.779780+00:00 app[web.1]:   vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:457:in `checkout_and_verify'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:546:in `retrieve_connection'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_handling.rb:79:in `retrieve_connection'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_handling.rb:53:in `connection'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/query_cache.rb:51:in `restore_query_cache_settings'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/ruby-2.0.0/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/query_cache.rb:43:in `rescue in call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/actionpack-4.0.0.rc1/lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/rack/logger.rb:21:in `call'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/ruby-2.0.0/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+2013-06-03T14:36:52.778393+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activerecord-4.0.0.rc1/lib/active_record/connection_adapters/abstract/connection_pool.rb:264:in `connection'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/callbacks.rb:80:in `run_callbacks'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/actionpack-4.0.0.rc1/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/actionpack-4.0.0.rc1/lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+2013-06-03T14:36:52.778748+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/actionpack-4.0.0.rc1/lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/tagged_logging.rb:67:in `tagged'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/runtime.rb:17:in `call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/tagged_logging.rb:25:in `tagged'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+2013-06-03T14:36:52.779121+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/activesupport-4.0.0.rc1/lib/active_support/tagged_logging.rb:67:in `block in tagged'
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+2013-06-03T14:36:52.779780+00:00 app[web.1]: 
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/rack-1.5.2/lib/rack/lock.rb:17:in `call'
+2013-06-03T14:36:52.779780+00:00 app[web.1]: 
+2013-06-03T14:36:52.779431+00:00 app[web.1]:   vendor/bundle/ruby/2.0.0/gems/railties-4.0.0.rc1/lib/rails/application.rb:96:in `call'
+2013-06-03T14:36:52.779780+00:00 app[web.1]: Exiting
+2013-06-03T14:36:52.900666+00:00 heroku[web.1]: State changed from starting to up
